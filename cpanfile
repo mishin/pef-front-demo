@@ -1,0 +1,11 @@
+requires 'DBIx::Struct';
+requires 'Digest::MD5';
+requires 'Encode';
+requires 'PEF::Front::Config';
+requires 'PEF::Front::NLS';
+requires 'PEF::Front::Oauth';
+requires 'PEF::Front::Preload';
+requires 'PEF::Front::Route';
+requires 'PEF::Front::Session';
+requires 'Time::Duration::Parse';
+requires 'feature';
